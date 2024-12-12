@@ -7,22 +7,22 @@ This project includes two basic screens:
 - **Details Screen**: A secondary screen accessible from the Home Screen.
 
 ## Project Structure
-my-project/ 
-├── App.js // Main entry point 
+my-project/  
+├── App.js // Main entry point  
 ├── app.json // App configuration 
-├── package.json // Dependencies and scripts 
-├── babel.config.js // Babel configuration 
-├── app/ // Routes directory 
-│ ├── index.js // Root route 
-│ ├── details.js // "/details" route 
-├── screens/ // Screens directory 
-│ ├── HomeScreen.js // Home screen component 
-│ ├── DetailsScreen.js// Details screen component 
-├── assets/ // Assets folder 
-│ ├── icon.png 
-│ ├── splash-icon.png 
-│ ├── adaptive-icon.png 
-│ ├── favicon.png
+├── package.json // Dependencies and scripts  
+├── babel.config.js // Babel configuration  
+├── app/ // Routes directory  
+│ ├── index.js // Root route  
+│ ├── details.js // "/details" route  
+├── screens/ // Screens directory  
+│ ├── HomeScreen.js // Home screen component  
+│ ├── DetailsScreen.js// Details screen component  
+├── assets/ // Assets folder  
+│ ├── icon.png  
+│ ├── splash-icon.png  
+│ ├── adaptive-icon.png  
+│ ├── favicon.png 
 
 ## Features
 
