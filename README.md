@@ -37,8 +37,8 @@ Follow these steps to set up and run the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/shakicardona/Expo-Router-Example
+cd Expo-Router-Example
 ```
 
 ### 2. Install dependencies
